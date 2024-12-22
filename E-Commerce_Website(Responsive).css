@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+#navlink{
+    font-family: "Roboto";
+    color: black;
+}
+#navlink1{
+    font-family: "Roboto";
+    color: black;
+}
+#navlink2{
+    font-family: "Roboto";
+    color: black;
+}
+#navlink3{
+    font-family: "Roboto";
+    color: black;
+}
+#navlink4{
+    font-family: "Roboto";
+    color: black;
+}
+.nav-image{
+    height: 40px;
+    width: 110px;
+}
+#E-commerce-services-section{
+    background-color: #f5f7fa;
+}
+.E-commerce-services-heading{
+    font-family: "Roboto";
+    color: #183b56;
+    font-weight: bold;
+}
+.E-commerce-services-para{
+    font-family: "Roboto";
+    color: #616c7c;
+    font-size: 25px;
+}
+.service-card{
+    text-align: center;
+}
+.service-image{
+    height: 120px;
+    width: 130px;
+}
+.service-heading{
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 30px;
+}
+.service-para{
+    font-family: "Roboto";
+    color: #616c7c;
+    font-size: 20px;
+}
+.product-card{
+    background-image: URL("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.product-card-heading{
+    font-family: "Roboto";
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+.product-card-para{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #e9ecf2;
+}
+.product-card-button{
+    font-family: "Roboto";
+    color: #ff9f00;
+    font-size: 19px;
+    background-color: white;
+    border-style: none;
+    border-width: 0px;
+    height: 60px;
+    width: 150px;
+    border-radius: 50px;
+}
+.product-card2{
+    background-image: URL("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.see-all-offers{
+    font-family: "Roboto";
+    color: #ff9f00;
+    text-align: right;
+    font-size: 21px;
+    font-weight: bold;
+    
+}
+.span{
+    color: black;
+    font-weight: bold;
+}
+#E-commerce-offers-section{
+    background-image: linear-gradient(to right,#f49541,#dd5d97,#ad2167);
+}
+.offers-image1{
+    height: 275px;
+    width: 350px;
+}
+.offers-image2{
+    width: 100%;
+}
+.offers-heading{
+    font-family: "Roboto";
+    color: #ad2167;
+    font-weight: bold;
+    font-size: 40px;
+}
+.offers-para{
+     font-family: "Roboto";
+     color: white;
+     font-size: 30px;
+}
+.span1{
+    font-weight: bold;
+}
+.span2{
+    color: yellow;
+}
+.span3{
+    font-weight: 100;
+    font-size: 20px;
+}
+.offers-image3{
+    width: 100%;
+}
+.blog-image{
+    width: 100%;
+}
+.blog-text-card{
+    padding: 10px;
+}
+.blog-para1{
+    font-family: "Roboto";
+    color: #959ead;
+    font-size: 20px;
+}
+.blog-heading{
+    font-family: "Roboto";
+    color: #183b56;
+    font-size: 32px;
+    font-weight: bold;
+}
+.blog-para2{
+    font-family: "Roboto";
+    color: #959ead;
+    font-size: 27px;
+}
+.blog-para3{
+    font-family: "Roboto";
+    color: #ff9f00;
+    font-size: 25px;
+    font-weight: bold;
+}
+#e-commerce-explore-section{
+    background-color: #f5f7fa;
+    
+}
+.offers-card1{
+    background-color: white;
+    border-radius: 10px;
+}
+.offers-card-heading{
+    font-family: "Roboto";
+    color: #183b56;
+    font-weight: bold;
+    font-size: 30px;
+}
+.offers-gadget-image{
+    width: 80%;
+    border-radius: 10px;
+}
+.offers-gadget-heading{
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: center;
+    color: #1f2933;
+}
+.offers-para{
+    margin-top: 20px;
+    color: #ff9f00;
+    font-size: 18px;
+    font-weight: bold;
+}
+.offers-image2{
+    width: 90%;
+}
+/* .contact-us-section{
+    background-color: #f5f7fa;
+} */
+
+.contact-us-button{
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #ff9f00;
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 27px;
+    height: 60px;
+    width: 170px;
+}
+.e-commerce-footer-section{
+    background-color: #152c3e;
+}
+.footer-image{
+    width: 60%;
+}
+.footer-icon{
+    color: #5a7184;
+}
+.footer-container{
+    background-color: #0d2436;
+    height: 35px;
+    width: 35px;
+    border-radius: 100px;
+    padding-top: 5px;
+}
+.footer-para1{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+.footer-heading1{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+}
+.footer-para2{
+    font-size: 13px;
+}
+hr{
+    background-color: white;
+    width: 95%;
+}
